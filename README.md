@@ -13,7 +13,7 @@
 #### Backend
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" width="50"></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" width="50"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="50"></a>
@@ -22,7 +22,7 @@
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"></a>
 #### Devops
-<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="50"></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="50"></a>
 <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" width="50"></a>
