@@ -6,24 +6,21 @@
 
 ### 🚀 Tech Skills
 
-🎨 **Frontend:** Html5, Css3, JS, Vue, React
+- 🎨**Frontend:** HTML5, CSS3, JavaScript, Vue, React  
+- 🛠️**Backend:** PHP, Python, Symfony, Laravel, Node.js, Express, WordPress, API  
+- 🗃️**Databases:** MySQL, PostgreSQL, MongoDB  
+- ♾️**DevOps:** AWS, Azure, Google Cloud, DigitalOcean, Docker  
+- 🔁**Version Control:** Git, SVN
 
-🛠️ **Backend:** PHP, Python, Symfony, Laravel, Nodejs, Express, WordPress, API
-
-🗃️ **Bases de datos:** MySQL, PostgreSQL, MongoDB
-
-♾️ **DevOps:** AWS, Azure, Google Cloud, Digitalocean Docker
-
-🔁 **Version control:** Git, SVN
-
-
-### 🧩 Highlighted projects
+### 🌟 Highlighted projects
 
 - 🔌 [Plugin Departamentos y Ciudades de Colombia para Woocommerce](https://github.com/saulmoralespa/departamentos-y-ciudades-de-colombia-para-woocommerce)
+   Allows you to select custom departments and cities in the WooCommerce checkout.
 - 🧾 [Plugin Integration Siigo Woocommerce ](https://github.com/saulmoralespa/integration-siigo-woo)
+  Automatically synchronize products and orders and generate electronic invoices for DIAN.
 - 🔌 [Extension WebCheckout payU latam Magento 2](https://github.com/saulmoralespa/magento2-payulatam)
-
+  Direct integration with WebCheckout payU and complete payment management.
 
 ### 📫 Contact
-- 🌐 [saulmorales.dev](https://saulmoralespa.com)
+- 🌐 [saulmoralespa.com](https://saulmoralespa.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saulmoralespa)
