@@ -7,10 +7,15 @@
 ### 🚀 Tech Skills
 
 🎨 **Frontend:** Html5, Css3, JS, Vue, React
+
 🛠️ **Backend:** PHP, Python, Symfony, Laravel, Nodejs, Express, WordPress, API
+
 🗃️ **Bases de datos:** MySQL, PostgreSQL, MongoDB
+
 ♾️ **DevOps:** AWS, Azure, Google Cloud, Digitalocean Docker
+
 🔁 **Version control:** Git, SVN
+
 
 ### 🧩 Highlighted projects
 
