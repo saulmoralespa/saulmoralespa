@@ -2,6 +2,8 @@
 
 ## Full-stack Developer
 
+💡 I am a full-stack software developer with more than 8 years of experience in the industry. I started my career as a freelancer, providing services to different clients, especially in e-commerce.
+
 ### 🚀 Tech Skills
 
 #### Frontend
