@@ -1,8 +1,17 @@
 # Hi, I'm Saúl Morales Pacheco 👋
 
-## Full-stack Developer
+## Senior Full-Stack Developer | E-commerce & Systems Integration
 
-💡 I am a full-stack software developer with more than 8 years of experience in the industry. I started my career as a freelancer, providing services to different clients, especially in e-commerce.
+I help businesses build and scale web platforms by developing
+high-quality backend systems, custom plugins, and integrations
+that automate billing, payments, and operations.
+
+💡 9+ years of experience working with:
+- WooCommerce & WordPress plugins  
+- Payment gateways and electronic invoicing  
+- APIs and business automation  
+- Scalable backend architectures
+- improve shopping experience
 
 ### 🚀 Tech Skills
 
@@ -16,11 +25,15 @@
 
 - 🔌 [Plugin Departamentos y Ciudades de Colombia para Woocommerce](https://github.com/saulmoralespa/departamentos-y-ciudades-de-colombia-para-woocommerce)
    Allows you to select custom departments and cities in the WooCommerce checkout.
-- 🧾 [Plugin Integration Siigo Woocommerce ](https://github.com/saulmoralespa/integration-siigo-woo)
+- 🧾 [Plugin Integration Siigo Woocommerce](https://github.com/saulmoralespa/integration-siigo-woo)
   Automatically synchronize products and orders and generate electronic invoices for DIAN.
+- 🤖 [Node n8n of Wompi Colombia](https://github.com/saulmoralespa/n8n-nodes-wompi)
 - 🔌 [Extension WebCheckout payU latam Magento 2](https://github.com/saulmoralespa/magento2-payulatam)
   Direct integration with WebCheckout payU and complete payment management.
+- 📂 [Developed with Symfony](https://github.com/saulmoralespa/files-dashboard)
 
 ### 📫 Contact
-- 🌐 [saulmoralespa.com](https://saulmoralespa.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/saulmoralespa)
+- [saulmoralespa.com](https://saulmoralespa.com)
+- [LinkedIn](https://www.linkedin.com/in/saulmoralespa)
+  
+💼 Open to remote opportunities and freelance contracts
